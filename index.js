@@ -7,5 +7,7 @@
     <h1>Hello World!<h1>
     Test
   </body>
+  <footer>
+  </footer>
 </html>
 
