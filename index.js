@@ -8,6 +8,7 @@
     Test
   </body>
   <footer>
+    AMEX branding
   </footer>
 </html>
 
